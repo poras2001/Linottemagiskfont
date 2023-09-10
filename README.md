@@ -5,8 +5,9 @@ Works with KSU as well.
 
 # Download:
 Download this module from [here](https://github.com/poras2001/Linottemagiskfont/releases/tag/release) and flash it in magisk or ksu.
-
+Stock Font:
 ![WhatsApp Image 2023-09-10 at 6 53 43 PM](https://github.com/poras2001/Linottemagiskfont/assets/91818021/43715028-9c39-4cbd-8160-9e47547f565a) 
+Linotte:
 ![WhatsApp Image 2023-09-10 at 6 53 43 PM-3](https://github.com/poras2001/Linottemagiskfont/assets/91818021/ac9f9cd0-4fc3-4cfe-89eb-cd2281a5bf22)
 
 
