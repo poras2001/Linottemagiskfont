@@ -4,6 +4,6 @@ This module helps you to replace the boring default font with 'Linotte' systemle
 Works with KSU as well.
 
 # Download:
-Download this module from here.
+Download this module from [here](https://github.com/poras2001/Linottemagiskfont/releases/tag/release) and flash it in magisk or ksu.
 
 Tested on my poco m2 pro on A12 and A13 versions.
